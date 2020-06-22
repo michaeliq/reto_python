@@ -1,0 +1,7 @@
+requests
+Beautifulsoup4
+html.parser
+os.path
+openxlpy
+sqlalchemy
+
